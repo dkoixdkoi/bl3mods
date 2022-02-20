@@ -15,4 +15,4 @@
 
 SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,ActionText,0,,Use Eridium ([eridiumicon]%i)
 SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,CurrencyType,0,,/Game/Gear/_Shared/_Design/InventoryCategories/InventoryCategory_Eridium
-SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,Cost.BaseValueConstant,0,,500.0
+SparkLevelPatchEntry,(1,1,0,Sanctuary3_P),/Game/UI/InteractionPrompt/UIData_GoldenKey.UIData_GoldenKey,Cost.BaseValueConstant,0,,250.0
